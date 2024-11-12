@@ -1,4 +1,4 @@
-# Ethan Bracelli|"Le Bratch"
+# Ethan Bracelli | "Le Bratch"
 
 ## 🛠 Compétences
 - Langages de programmation : Python, C#, PHP, JavaScript
