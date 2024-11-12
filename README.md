@@ -1,16 +1,20 @@
-## Hi there 👋
+# Ethan Bracelli|"Le Bratch"
 
-<!--
-**Ethan-Bracelli-CEFF/Ethan-Bracelli-CEFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Compétences
+- Langages de programmation : Python, C#, PHP, JavaScript
+- Développement Web : HTML, CSS, Bootstrap, JavaScript, PHP
+- Bases de données : MySQL, SQLite, PDO pour PHP
+- Frameworks et outils : Discord.py, aiosqlite, PDO (PHP Data Objects), Git, Visual Studio, Visual Studio Code
+- Développement Mobile : Dart et Flutter
 
-Here are some ideas to get you started:
+## 📑 Réalisation et Projet
+- **Quizzer PO-2024** : [Site questionnaire de TIB pour les portes ouvertes 2024 du ceff](https://github.com/Ethan-Bracelli-CEFF/PO-2024-TIB)
+- **UMBUSE 2K24** : [Site de Morpion pour les portes ouvertes 2024 du ceff](https://github.com/Ethan-Bracelli-CEFF/PO-2024)
+- **Le Mot** : [Site de Wordle multijoueur fait en 2 semaines](https://github.com/Ethan-Bracelli-CEFF/Le_Mot)
+- **CheckListED** :[Site de checklist pour apprendre le back-end PHP](https://github.com/Ethan-Bracelli-CEFF/CheckListED)
+- **Question for a Champion** : [Site qui genère des questionnaire grâce à une API](https://github.com/Ethan-Bracelli-CEFF/QFAC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- (⚠ Compte perso) Swiss Rocket League Community Bot : [Bot Discord officiel de la communauté Rocket League Suisse](https://github.com/Aitaneuh/SRLC-3.0)
+
+## Contact
+Email : ethan.bracelli@ceff.ch
